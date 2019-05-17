@@ -92,4 +92,4 @@
         submittingMessage: 'Files are being uploaded...',
     };
 
-})(django.jQuery);
+})(grp.jQuery);
